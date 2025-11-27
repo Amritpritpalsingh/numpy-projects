@@ -1,4 +1,4 @@
-# 🔢 5-Day NumPy Projects — Beginner’s Numerical Computing Portfolio
+# 🔢 NumPy Projects — Beginner’s Numerical Computing Portfolio
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.26-orange.svg)](https://numpy.org/)
@@ -60,3 +60,24 @@ Each project focuses on **practical scenarios** with core NumPy concepts: arrays
 ### 1️⃣ Clone the repo
 ```bash
 git clone https://github.com/<YourUsername>/5-day-numpy-projects.git
+
+cd -numpy-projects/project-01-weather-temperature-simulation
+
+pip install numpy matplotlib
+
+jupyter notebook
+
+
+🎯 Why This Repository Exists
+Track daily learning in NumPy
+
+Practice numerical computing with practical projects
+
+Build a beginner-friendly portfolio
+
+Gain confidence in Python for data analysis
+
+✨ Author
+
+Amritpritpal Singh
+Beginner Data Analyst | Learning NumPy & Python for Data Science step-by-step
