@@ -58,7 +58,7 @@ Each project focuses on **practical scenarios** with core NumPy concepts: arrays
 # ☁️ How to Use This Repository
 
 ```bash
-git clone https://github.com/<YourUsername>/5-day-numpy-projects.git
+git clone https://github.com/Amritpritpalsingh/numpy-projects.git
 cd -numpy-projects/project-01-weather-temperature-simulation
 pip install numpy matplotlib
 jupyter notebook
