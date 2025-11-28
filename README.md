@@ -4,7 +4,7 @@
 [![NumPy](https://img.shields.io/badge/NumPy-1.26-orange.svg)](https://numpy.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 
-This repository contains **5 hands-on NumPy projects** to master numerical computing.  
+This repository contains **3 hands-on NumPy projects** to master numerical computing.  
 
 Each project focuses on **practical scenarios** with core NumPy concepts: arrays, vectorized calculations, reshaping, statistics, and simulations. Perfect for beginners aiming to build a portfolio.
 
@@ -17,8 +17,7 @@ Each project focuses on **practical scenarios** with core NumPy concepts: arrays
 | 🥵 P1  | Weather Temperature Simulation        | Weather Data           | Arrays, Random Numbers, Indexing, Stats |
 | 🏦 P2  | Bank ATM Cash Flow Analysis           | Banking / Finance      | Reshaping, Broadcasting, Vectorized Ops |
 | 🎓 P3  | Students Marks Normalization          | Educational Data       | Array Math, Normalization, Clipping |
-| 🖼️ P4  | Image Brightness Manipulation         | Grayscale Image Processing | 2D Arrays, Matrix Ops, Data Type Conversion |
-| 📈 P5  | Stock Market Price Trend Analysis     | Financial Time Series  | Rolling Windows, Differences, Cumulative Sum, Volatility |
+
 
 ---
 
@@ -35,14 +34,6 @@ Each project focuses on **practical scenarios** with core NumPy concepts: arrays
 ### 🎓 Students Marks Normalization
 - **Objective:** Normalize marks of 100 students and classify grades.  
 - **Insights:** Min-Max/Z-score normalization, bonus curve, number of A-grade students.
-
-### 🖼️ Image Brightness Manipulation
-- **Objective:** Adjust brightness & apply threshold on grayscale images.  
-- **Insights:** Percentage of bright vs dark pixels, enhanced brightness, thresholding.
-
-### 📈 Stock Market Price Trend Analysis
-- **Objective:** Analyze 3 stock prices over 180 days.  
-- **Insights:** Daily price changes, 7-day rolling averages, most stable & top-performing stock.
 
 ---
 
